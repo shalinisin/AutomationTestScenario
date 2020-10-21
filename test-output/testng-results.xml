@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76775" started-at="2020-10-22T00:34:29 IST" finished-at="2020-10-22T00:35:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76775" started-at="2020-10-22T00:34:29 IST" finished-at="2020-10-22T00:35:46 IST">
+      <class name="com.automationpractice.TestScenario">
+        <test-method status="PASS" signature="shoppingValidation()[pri:0, instance:com.automationpractice.TestScenario@7494e528]" name="shoppingValidation" duration-ms="76737" started-at="2020-10-22T00:34:29 IST" finished-at="2020-10-22T00:35:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingValidation -->
+      </class> <!-- com.automationpractice.TestScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
